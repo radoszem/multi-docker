@@ -20,3 +20,5 @@ after_success:
     - docker push radoszem/multi-nginx
     - docker push radoszem/multi-server
     - docker push radoszem/multi-worker
+
+    #push to dosker-hub
